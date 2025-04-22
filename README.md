@@ -1,2 +1,1 @@
-# Story
-Welcome !
+Chaque jour, John se réveillait à 8 heures du matin...
